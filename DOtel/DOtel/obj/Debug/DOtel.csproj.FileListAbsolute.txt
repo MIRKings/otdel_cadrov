@@ -1,0 +1,13 @@
+C:\Users\gusei\source\repos\DOtel\DOtel\bin\Debug\DOtel.exe.config
+C:\Users\gusei\source\repos\DOtel\DOtel\bin\Debug\DOtel.exe
+C:\Users\gusei\source\repos\DOtel\DOtel\bin\Debug\DOtel.pdb
+C:\Users\gusei\source\repos\DOtel\DOtel\obj\Debug\DOtel.csprojAssemblyReference.cache
+C:\Users\gusei\source\repos\DOtel\DOtel\obj\Debug\DOtel.Properties.Resources.resources
+C:\Users\gusei\source\repos\DOtel\DOtel\obj\Debug\DOtel.csproj.GenerateResource.cache
+C:\Users\gusei\source\repos\DOtel\DOtel\obj\Debug\DOtel.csproj.CoreCompileInputs.cache
+C:\Users\gusei\source\repos\DOtel\DOtel\obj\Debug\DOtel.exe
+C:\Users\gusei\source\repos\DOtel\DOtel\obj\Debug\DOtel.pdb
+C:\Users\gusei\source\repos\DOtel\DOtel\obj\Debug\DOtel.CAPTCHA.resources
+C:\Users\gusei\source\repos\DOtel\DOtel\obj\Debug\DOtel.AUTH.resources
+C:\Users\gusei\source\repos\DOtel\DOtel\obj\Debug\DOtel.ADMIN.resources
+C:\Users\gusei\source\repos\DOtel\DOtel\obj\Debug\DOtel.CADR.resources
